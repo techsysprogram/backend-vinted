@@ -1,0 +1,7 @@
+cacher mes clé => .env (installer dotenv) [clé mongo/cloudinary/port]
+créer un fichier .gitignore
+intialiser git
+installer cors et faire app.use(cors())
+ajouter un script "start" : "node index.js"
+push son code sur github
+créer un service northflank
